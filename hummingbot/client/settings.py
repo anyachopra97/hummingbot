@@ -46,7 +46,8 @@ STRATEGIES = {
     "discovery",
     "pure_market_making",
     "simple_trade",
-    "execution1"
+    "execution1",
+    "execution2"
 }
 
 EXAMPLE_PAIRS = {
